@@ -1,3 +1,3 @@
 # Ruby on Rails Tutorial: first application
 
-This is the first application for...
+This is the first application for ryan's second commit
